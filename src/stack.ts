@@ -19,3 +19,5 @@ class Stack<T extends AllowedTypes> {
     }
 
 }
+
+export default Stack;
