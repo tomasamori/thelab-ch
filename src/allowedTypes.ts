@@ -1,0 +1,1 @@
+export type AllowedTypes = boolean | string | number;
